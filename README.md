@@ -56,4 +56,8 @@ API Call: The app sends a request to the OMDb API with the entered query.
 
 Display Results: Results are fetched and rendered as movie cards dynamically.
 
-Save Favorites (Optional): A user can click to add a movie to their list of favorites.
+Save Favorites : A user can click to add a movie to their list of favorites.
+
+*Output
+
+![Image](https://github.com/user-attachments/assets/f97c454c-e958-49b3-8be1-03141c81108f)

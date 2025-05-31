@@ -12,16 +12,16 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+*Movie Search With AJ
 
 This Movie Search App is a beginner-friendly React JS project that enables users to explore movies by title. It utilizes the power of the OMDb API for movie data retrieval,
 offering features like searching for movies, displaying detailed information about selected films, and presenting a list of popular movies. With its responsive design, 
 it adapts seamlessly to various screen sizes. This project serves as an excellent learning opportunity for newcomers to React and API integration, allowing them to build a 
 functional movie search application from scratch.
-
-*Movie Search With AJ
 MovieSearch With AJ is a feature-rich, responsive React application that allows users to search for movies and view detailed information fetched from a public movie database API like OMDb (Open Movie Database). This project was built as part of the CodTech internship to demonstrate skills in React development, API integration, UI design, and state management.
 
 The app provides a clean and user-friendly interface where users can search for any movie by name, view results in a card-based layout, and optionally save favorite movies for future reference.
+
 
 *Key Features
 Movie Search: Users can enter the name of a movie to search and get real-time results fetched from the OMDb API.
@@ -36,6 +36,7 @@ Loading & Error States: Displays loading spinners while fetching and error messa
 
 Reusable Components: Modular React components are used to promote reusability and clean code structure.
 
+
 *Technologies Used
 React.js – For building the user interface using functional components and hooks.
 
@@ -48,6 +49,7 @@ CSS Modules – For modern and maintainable styling.
 React Icons – For elegant iconography like the search icon.
 
 localStorage – For persisting favorite movies across sessions.
+
 
 *How It Works
 User Search: The user enters a movie name into the input field.

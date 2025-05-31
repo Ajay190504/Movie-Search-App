@@ -12,6 +12,7 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+
 *Movie Search With AJ
 
 This Movie Search App is a beginner-friendly React JS project that enables users to explore movies by title. It utilizes the power of the OMDb API for movie data retrieval,

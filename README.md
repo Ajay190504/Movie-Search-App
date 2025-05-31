@@ -1,4 +1,4 @@
-# Movie Search App
+# MOVIE SEARCH APP
 
 *COMPANY* : CODTECH IT SOLUTIONS
 

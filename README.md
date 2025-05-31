@@ -12,6 +12,8 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+
+
 #Description :
 
 *Movie Search With AJ
@@ -25,7 +27,8 @@ MovieSearch With AJ is a feature-rich, responsive React application that allows 
 The app provides a clean and user-friendly interface where users can search for any movie by name, view results in a card-based layout, and optionally save favorite movies for future reference.
 
 
-*Key Features
+
+#Key Features
 Movie Search: Users can enter the name of a movie to search and get real-time results fetched from the OMDb API.
 
 Responsive UI: The app features a modern, responsive design that works seamlessly across devices (desktop, tablet, mobile).
@@ -39,7 +42,8 @@ Loading & Error States: Displays loading spinners while fetching and error messa
 Reusable Components: Modular React components are used to promote reusability and clean code structure.
 
 
-*Technologies Used
+
+#Technologies Used
 React.js – For building the user interface using functional components and hooks.
 
 OMDb API – For retrieving movie data like titles, posters, genres, and release dates.
@@ -53,7 +57,7 @@ React Icons – For elegant iconography like the search icon.
 localStorage – For persisting favorite movies across sessions.
 
 
-*How It Works
+#How It Works
 User Search: The user enters a movie name into the input field.
 
 API Call: The app sends a request to the OMDb API with the entered query.
@@ -62,6 +66,7 @@ Display Results: Results are fetched and rendered as movie cards dynamically.
 
 Save Favorites : A user can click to add a movie to their list of favorites.
 
-*Output
+
+#Output
 
 ![Image](https://github.com/user-attachments/assets/f97c454c-e958-49b3-8be1-03141c81108f)
